@@ -1,0 +1,12 @@
+D:\microsoft visual studio projects\Infobez_Cesar\bin\Debug\Infobez_Cesar.exe.config
+D:\microsoft visual studio projects\Infobez_Cesar\bin\Debug\Infobez_Cesar.exe
+D:\microsoft visual studio projects\Infobez_Cesar\bin\Debug\Infobez_Cesar.pdb
+D:\microsoft visual studio projects\Infobez_Cesar\obj\Debug\Infobez_Cesar.csprojResolveAssemblyReference.cache
+D:\microsoft visual studio projects\Infobez_Cesar\obj\Debug\Infobez_Cesar.Form1.resources
+D:\microsoft visual studio projects\Infobez_Cesar\obj\Debug\Infobez_Cesar.Properties.Resources.resources
+D:\microsoft visual studio projects\Infobez_Cesar\obj\Debug\Infobez_Cesar.csproj.GenerateResource.Cache
+D:\microsoft visual studio projects\Infobez_Cesar\obj\Debug\Infobez_Cesar.exe
+D:\microsoft visual studio projects\Infobez_Cesar\obj\Debug\Infobez_Cesar.pdb
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Infobez_Cesar\bin\Debug\Infobez_Cesar.exe.config
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Infobez_Cesar\obj\Debug\Infobez_Cesar.exe
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Infobez_Cesar\obj\Debug\Infobez_Cesar.pdb
