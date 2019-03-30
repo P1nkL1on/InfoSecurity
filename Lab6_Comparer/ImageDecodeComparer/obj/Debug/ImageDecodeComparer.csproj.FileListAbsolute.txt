@@ -1,0 +1,9 @@
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\bin\Debug\ImageDecodeComparer.exe.config
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\bin\Debug\ImageDecodeComparer.exe
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\bin\Debug\ImageDecodeComparer.pdb
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\obj\Debug\ImageDecodeComparer.csprojResolveAssemblyReference.cache
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\obj\Debug\ImageDecodeComparer.Form1.resources
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\obj\Debug\ImageDecodeComparer.Properties.Resources.resources
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\obj\Debug\ImageDecodeComparer.csproj.GenerateResource.Cache
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\obj\Debug\ImageDecodeComparer.exe
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\obj\Debug\ImageDecodeComparer.pdb
