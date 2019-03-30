@@ -1,0 +1,18 @@
+D:\microsoft visual studio projects\PictureShifrator\bin\Debug\PictureShifrator.exe.config
+D:\microsoft visual studio projects\PictureShifrator\bin\Debug\PictureShifrator.exe
+D:\microsoft visual studio projects\PictureShifrator\bin\Debug\PictureShifrator.pdb
+D:\microsoft visual studio projects\PictureShifrator\obj\Debug\PictureShifrator.csprojResolveAssemblyReference.cache
+D:\microsoft visual studio projects\PictureShifrator\obj\Debug\PictureShifrator.MainForm.resources
+D:\microsoft visual studio projects\PictureShifrator\obj\Debug\PictureShifrator.Properties.Resources.resources
+D:\microsoft visual studio projects\PictureShifrator\obj\Debug\PictureShifrator.csproj.GenerateResource.Cache
+D:\microsoft visual studio projects\PictureShifrator\obj\Debug\PictureShifrator.exe
+D:\microsoft visual studio projects\PictureShifrator\obj\Debug\PictureShifrator.pdb
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\bin\Debug\PictureShifrator.exe.config
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.exe
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.pdb
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.csprojResolveAssemblyReference.cache
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.MainForm.resources
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.Properties.Resources.resources
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.csproj.GenerateResource.Cache
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\bin\Debug\PictureShifrator.exe
+D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\bin\Debug\PictureShifrator.pdb
