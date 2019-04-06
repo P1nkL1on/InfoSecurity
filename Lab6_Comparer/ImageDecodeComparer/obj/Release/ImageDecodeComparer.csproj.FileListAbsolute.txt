@@ -1,0 +1,9 @@
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\bin\Release\ImageDecodeComparer.exe.config
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\bin\Release\ImageDecodeComparer.exe
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\bin\Release\ImageDecodeComparer.pdb
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\obj\Release\ImageDecodeComparer.Form1.resources
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\obj\Release\ImageDecodeComparer.Properties.Resources.resources
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\obj\Release\ImageDecodeComparer.csproj.GenerateResource.Cache
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\obj\Release\ImageDecodeComparer.csproj.CoreCompileInputs.cache
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\obj\Release\ImageDecodeComparer.exe
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab6_Comparer\ImageDecodeComparer\obj\Release\ImageDecodeComparer.pdb

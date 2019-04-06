@@ -34,6 +34,7 @@ namespace ImageDecodeComparer
         private void updateComparer()
         {
             panelImage3.CreateGraphics().DrawImage(ic.getComparer, new Rectangle(0, 0, panelImage3.Width, panelImage3.Height));
+            panelImage4.CreateGraphics().DrawImage(ic.getComparer2, new Rectangle(0, 0, panelImage4.Width, panelImage3.Height));
         }
 
         private void buttonBack_Click(object sender, EventArgs e)
@@ -51,6 +52,12 @@ namespace ImageDecodeComparer
         private void buttonComparer_Click(object sender, EventArgs e)
         {
             ic.calculateDifferentPixels();
+            updateComparer();
+        }
+
+        private void buttonPix_Click(object sender, EventArgs e)
+        {
+            ic.calculateBitLevel((int)numericUpDown2.Value, (int)numericUpDown1.Value);
             updateComparer();
         }
     }

@@ -16,3 +16,13 @@ D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShif
 D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.csproj.GenerateResource.Cache
 D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\bin\Debug\PictureShifrator.exe
 D:\univer\4 kurs\2 semestr\infobez\InfoSecurity\Lab7_Coder\bin\Debug\PictureShifrator.pdb
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab7_Coder\bin\Debug\PictureShifrator.exe.config
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab7_Coder\bin\Debug\PictureShifrator.exe
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab7_Coder\bin\Debug\PictureShifrator.pdb
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.csprojResolveAssemblyReference.cache
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.MainForm.resources
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.Properties.Resources.resources
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.csproj.GenerateResource.Cache
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.csproj.CoreCompileInputs.cache
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.exe
+C:\Users\lion6_000\Documents\unver.infbez\InfoSecurity\Lab7_Coder\obj\Debug\PictureShifrator.pdb
